@@ -1,0 +1,372 @@
+26/01/19 11:43:28 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 11:43:30 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 11:44:16 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 11:44:18 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 11:44:18 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 11:44:18 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 11:44:19 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 11:44:30 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 11:44:30 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 11:44:30 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 11:44:30 -TestStatus INFO Verification passed
+26/01/19 11:44:30 -TestStatus INFO test_invalidLogin PASSED
+26/01/19 11:44:41 -TestStatus INFO Verification passed
+26/01/19 11:44:41 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 11:44:42 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 11:44:52 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 11:44:52 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 11:44:52 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 11:44:52 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 11:44:52 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 11:45:01 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 11:45:01 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 11:45:01 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 11:45:01 -TestStatus INFO Verification passed
+26/01/19 11:45:01 -TestStatus INFO test_validLogin PASSED
+26/01/19 03:01:02 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:01:02 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:01:10 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:01:10 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:01:10 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:01:10 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:01:10 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:01:14 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:01:14 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:01:14 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:01:14 -TestStatus INFO Verification passed
+26/01/19 03:01:14 -TestStatus INFO test_invalidLogin PASSED
+26/01/19 03:01:18 -TestStatus INFO Verification passed
+26/01/19 03:01:18 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:01:18 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:01:23 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:01:24 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:01:24 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:01:24 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:01:24 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:01:28 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:01:28 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:01:28 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:01:28 -TestStatus INFO Verification passed
+26/01/19 03:01:28 -TestStatus INFO test_validLogin PASSED
+26/01/19 03:03:29 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:03:29 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:03:37 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:03:37 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:03:37 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:03:37 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:03:37 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:03:40 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:03:40 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:03:40 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:03:40 -TestStatus INFO Verification passed
+26/01/19 03:03:40 -TestStatus INFO test_invalidLogin PASSED
+26/01/19 03:03:45 -TestStatus INFO Verification passed
+26/01/19 03:03:45 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:03:45 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:03:50 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:03:50 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:03:50 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:03:50 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:03:50 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:03:54 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:03:54 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:03:54 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:03:54 -TestStatus INFO Verification passed
+26/01/19 03:03:54 -TestStatus INFO test_validLogin PASSED
+26/01/19 03:05:58 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:05:58 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:06:06 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:06:06 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:06:06 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:06:06 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:06:06 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:06:10 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:06:10 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:06:10 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:06:10 -TestStatus INFO Verification passed
+26/01/19 03:06:10 -TestStatus INFO test_invalidLogin PASSED
+26/01/19 03:06:13 -TestStatus INFO Verification passed
+26/01/19 03:06:13 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:06:14 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:06:19 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:06:19 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:06:19 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:06:19 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:06:19 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:06:24 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:06:24 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:06:24 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:06:24 -TestStatus INFO Verification passed
+26/01/19 03:06:24 -TestStatus INFO test_validLogin PASSED
+26/01/19 03:08:14 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:08:14 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:08:21 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:08:21 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:08:21 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:08:21 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:08:21 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:08:25 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:08:25 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:08:25 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:08:25 -TestStatus INFO Verification passed
+26/01/19 03:08:25 -TestStatus INFO test_invalidLogin PASSED
+26/01/19 03:08:29 -TestStatus ERROR ***VERIFICATION FAILED***
+26/01/19 03:08:29 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:08:29 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:08:34 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:08:34 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:08:34 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:08:34 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:08:34 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:08:39 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:08:39 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:08:40 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:08:40 -TestStatus INFO Verification passed
+26/01/19 03:08:40 -TestStatus ERROR ***test_validLoginFAILED ***
+26/01/19 03:08:40 -TestStatus INFO Screen shot taken
+26/01/19 03:10:28 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:10:28 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:10:35 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:10:35 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:10:35 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:10:35 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:10:36 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:10:39 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:10:40 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:10:40 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:10:40 -TestStatus INFO Verification passed
+26/01/19 03:10:40 -TestStatus INFO test_invalidLogin PASSED
+26/01/19 03:10:43 -TestStatus ERROR ***VERIFICATION FAILED***
+26/01/19 03:10:43 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:10:44 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:10:48 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:10:49 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:10:49 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:10:49 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:10:49 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:10:53 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:10:53 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:10:53 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:10:53 -TestStatus INFO Verification passed
+26/01/19 03:10:53 -TestStatus ERROR ***test_validLoginFAILED ***
+26/01/19 03:10:53 -TestStatus INFO Screen shot taken
+26/01/19 03:12:14 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:12:14 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:12:22 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:12:22 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:12:22 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:12:22 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:12:22 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:12:26 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:12:26 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:12:26 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:12:26 -TestStatus INFO Verification passed
+26/01/19 03:12:26 -TestStatus INFO test_invalidLogin PASSED
+26/01/19 03:12:30 -TestStatus ERROR ***VERIFICATION FAILED***
+26/01/19 03:12:30 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:12:30 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:12:34 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:12:34 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:12:34 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:12:34 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:12:34 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:12:39 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:12:39 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:12:39 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:12:39 -TestStatus INFO Verification passed
+26/01/19 03:12:39 -TestStatus ERROR ***test_validLoginFAILED ***
+26/01/19 03:12:39 -TestStatus INFO Screen shot taken
+26/01/19 03:14:01 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:14:01 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:14:08 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:14:08 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:14:08 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:14:08 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:14:08 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:14:12 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:14:12 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:14:12 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:14:12 -TestStatus INFO Verification passed
+26/01/19 03:14:12 -TestStatus INFO test_invalidLogin PASSED
+26/01/19 03:14:16 -TestStatus ERROR ***VERIFICATION FAILED***
+26/01/19 03:14:16 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:14:16 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:14:21 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:14:21 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:14:21 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:14:21 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:14:21 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:14:26 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:14:26 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:14:26 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:14:26 -TestStatus INFO Verification passed
+26/01/19 03:14:26 -TestStatus ERROR ***test_validLoginFAILED ***
+26/01/19 03:14:26 -TestStatus INFO Screen shot taken
+26/01/19 03:15:44 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:15:44 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:15:52 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:15:52 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:15:52 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:15:52 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:15:52 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:15:56 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:15:56 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:15:56 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:15:56 -TestStatus INFO Verification passed
+26/01/19 03:15:56 -TestStatus INFO test_invalidLogin PASSED
+26/01/19 03:16:00 -TestStatus ERROR ***VERIFICATION FAILED***
+26/01/19 03:16:00 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:16:00 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:16:05 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:16:05 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:16:05 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:16:05 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:16:05 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:16:10 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:16:10 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:16:10 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:16:10 -TestStatus INFO Verification passed
+26/01/19 03:16:10 -TestStatus ERROR ***test_validLoginFAILED ***
+26/01/19 03:16:10 -TestStatus INFO Screen shot taken
+26/01/19 03:18:42 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:18:42 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:18:50 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:18:50 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:18:50 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:18:50 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:18:50 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:18:54 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:18:54 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:18:54 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+26/01/19 03:18:54 -TestStatus INFO Verification passed
+26/01/19 03:18:54 -TestStatus INFO test_invalidLogin PASSED
+26/01/19 03:18:58 -TestStatus ERROR ***VERIFICATION FAILED***
+26/01/19 03:18:58 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:18:58 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+26/01/19 03:19:02 -LoginPage INFO Element found with Locator: user_email with locator type: id
+26/01/19 03:19:03 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+26/01/19 03:19:03 -LoginPage INFO Element found with Locator: user_password with locator type: id
+26/01/19 03:19:03 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+26/01/19 03:19:03 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:19:08 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+26/01/19 03:19:08 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:19:08 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+26/01/19 03:19:08 -TestStatus INFO Verification passed
+26/01/19 03:19:08 -TestStatus ERROR ***test_validLoginFAILED ***
+26/01/19 03:19:08 -TestStatus INFO Screen shot taken
+28/01/19 11:00:51 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:00:51 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:01:00 -LoginPage INFO Element found with Locator: user_email with locator type: id
+28/01/19 11:01:00 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+28/01/19 11:01:00 -LoginPage INFO Element found with Locator: user_password with locator type: id
+28/01/19 11:01:00 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+28/01/19 11:01:00 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:01:06 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:01:06 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+28/01/19 11:01:06 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+28/01/19 11:01:06 -TestStatus INFO Verification passed
+28/01/19 11:01:06 -TestStatus INFO test_invalidLogin PASSED
+28/01/19 11:01:11 -TestStatus ERROR ***VERIFICATION FAILED***
+28/01/19 11:01:11 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:01:11 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:01:18 -LoginPage INFO Element found with Locator: user_email with locator type: id
+28/01/19 11:01:18 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+28/01/19 11:01:18 -LoginPage INFO Element found with Locator: user_password with locator type: id
+28/01/19 11:01:19 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+28/01/19 11:01:19 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:01:26 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:01:26 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+28/01/19 11:01:26 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+28/01/19 11:01:26 -TestStatus INFO Verification passed
+28/01/19 11:01:26 -TestStatus ERROR ***test_validLoginFAILED ***
+28/01/19 11:01:26 -TestStatus INFO Screen shot taken
+28/01/19 11:02:34 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:02:34 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:02:41 -LoginPage INFO Element found with Locator: user_email with locator type: id
+28/01/19 11:02:42 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+28/01/19 11:02:42 -LoginPage INFO Element found with Locator: user_password with locator type: id
+28/01/19 11:02:42 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+28/01/19 11:02:42 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:02:47 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:02:47 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+28/01/19 11:02:47 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+28/01/19 11:02:47 -TestStatus INFO Verification passed
+28/01/19 11:02:47 -TestStatus INFO test_invalidLogin PASSED
+28/01/19 11:02:50 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:02:51 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:02:56 -LoginPage INFO Element found with Locator: user_email with locator type: id
+28/01/19 11:02:56 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+28/01/19 11:02:56 -LoginPage INFO Element found with Locator: user_password with locator type: id
+28/01/19 11:02:56 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+28/01/19 11:02:56 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:03:00 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:03:00 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+28/01/19 11:03:00 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+28/01/19 11:03:00 -TestStatus INFO Verification passed
+28/01/19 11:03:00 -TestStatus INFO test_invalidLogin PASSED
+28/01/19 11:03:04 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:03:04 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:03:09 -LoginPage INFO Element found with Locator: user_email with locator type: id
+28/01/19 11:03:10 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+28/01/19 11:03:10 -LoginPage INFO Element found with Locator: user_password with locator type: id
+28/01/19 11:03:10 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+28/01/19 11:03:10 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:03:16 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:03:21 -LoginPage ERROR Element NOT found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+28/01/19 11:03:21 -LoginPage ERROR Element NOT found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+28/01/19 11:03:21 -TestStatus ERROR ***VERIFICATION FAILED***
+28/01/19 11:03:21 -TestStatus ERROR ***test_invalidLoginFAILED ***
+28/01/19 11:03:21 -TestStatus INFO Screen shot taken
+28/01/19 11:03:24 -TestStatus ERROR ***VERIFICATION FAILED***
+28/01/19 11:03:29 -LoginPage ERROR Element NOT found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:03:29 -LoginPage ERROR Element NOT clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:05:26 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:05:26 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:05:33 -LoginPage INFO Element found with Locator: user_email with locator type: id
+28/01/19 11:05:34 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+28/01/19 11:05:34 -LoginPage INFO Element found with Locator: user_password with locator type: id
+28/01/19 11:05:34 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+28/01/19 11:05:34 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:05:39 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:05:39 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+28/01/19 11:05:39 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+28/01/19 11:05:39 -TestStatus INFO Verification passed
+28/01/19 11:05:39 -TestStatus INFO test_invalidLogin PASSED
+28/01/19 11:05:43 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:05:43 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:05:47 -LoginPage INFO Element found with Locator: user_email with locator type: id
+28/01/19 11:05:48 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+28/01/19 11:05:48 -LoginPage INFO Element found with Locator: user_password with locator type: id
+28/01/19 11:05:48 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+28/01/19 11:05:48 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:05:51 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:05:52 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+28/01/19 11:05:52 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+28/01/19 11:05:52 -TestStatus INFO Verification passed
+28/01/19 11:05:52 -TestStatus INFO test_invalidLogin PASSED
+28/01/19 11:05:55 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:05:55 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:06:00 -LoginPage INFO Element found with Locator: user_email with locator type: id
+28/01/19 11:06:00 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+28/01/19 11:06:00 -LoginPage INFO Element found with Locator: user_password with locator type: id
+28/01/19 11:06:00 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+28/01/19 11:06:00 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:06:04 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:06:04 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+28/01/19 11:06:04 -LoginPage INFO Element found with Locator: //div[contains(text(),'Invalid email or password.')] with locator type: xpath
+28/01/19 11:06:04 -TestStatus INFO Verification passed
+28/01/19 11:06:04 -TestStatus INFO test_invalidLogin PASSED
+28/01/19 11:06:08 -TestStatus ERROR ***VERIFICATION FAILED***
+28/01/19 11:06:08 -LoginPage INFO Element found with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:06:08 -LoginPage INFO Element clicked with Locator: //a[contains(text(),'Login')] with locator type: xpath
+28/01/19 11:06:11 -LoginPage INFO Element found with Locator: user_email with locator type: id
+28/01/19 11:06:12 -LoginPage INFO Sent keys with Locator: user_email with locator type: id
+28/01/19 11:06:12 -LoginPage INFO Element found with Locator: user_password with locator type: id
+28/01/19 11:06:12 -LoginPage INFO Sent keys with Locator: user_password with locator type: id
+28/01/19 11:06:12 -LoginPage INFO Element found with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:06:18 -LoginPage INFO Element clicked with Locator: //input[@value = 'Log In'] with locator type: xpath
+28/01/19 11:06:18 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+28/01/19 11:06:18 -LoginPage INFO Element found with Locator: gravatar with locator type: class_name
+28/01/19 11:06:18 -TestStatus INFO Verification passed
+28/01/19 11:06:18 -TestStatus ERROR ***test_validLoginFAILED ***
+28/01/19 11:06:18 -TestStatus INFO Screen shot taken
